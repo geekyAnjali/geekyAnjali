@@ -7,13 +7,8 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at [https://github.com/geekyAnjali](https://github.com/geekyAnjali)
-
 - 📝 I regularly write articles on [https://medium.com/@anjalistuart2018](https://medium.com/@anjalistuart2018)
 
-- 💬 Ask me about **python, logic building, career guidance**
-
-- 📫 How to reach me **anjalicode.py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
