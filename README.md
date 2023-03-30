@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
-<h3 align="center">A curious girl to know about computer science</h3>
+<h3 align="center">A curious girl to know more about computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyanjali&label=Profile%20views&color=0e75b6&style=flat" alt="geekyanjali" /> </p>
 
