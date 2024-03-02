@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 📝 I regularly write articles on [https://medium.com/@anjalistuart2018](https://medium.com/@anjalistuart2018)
+- 📝 I regularly write articles on [https://medium.com/@anjalistuart2018](https://medium.com/@geekyanjali)
 
 
 <h3 align="left">Connect with me:</h3>
