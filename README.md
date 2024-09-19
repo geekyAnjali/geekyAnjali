@@ -15,6 +15,7 @@
 <a href="https://medium.com/@geekyanjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geekyanjali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/geekyanjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geekyanjali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/geekyanjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geekyanjali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anjali-singh-a6371b1a1/"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="geekyanjali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
