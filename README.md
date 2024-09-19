@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Enhancing my coding skills**
 
-- 🌱 I’m currently learning **to write robust and optimize code**.
+- 🌱 I’m currently learning **to write robust and optimize code**
 
 - 📝 I regularly write articles on [https://medium.com/@geekyanjali](https://medium.com/@geekyanjali)
 
